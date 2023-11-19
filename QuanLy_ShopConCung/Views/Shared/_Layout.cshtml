@@ -203,13 +203,21 @@
 				</li>
 
 				<li>
-					<a href="blog.html">Blog</a>
+					<a asp-area="" asp-controller="Admin" asp-action="Index" title="Bạn phải đăng nhập bằng tài khoản Admin">Admin</a>
 				</li>
 
+				<!--
+					<li>
+						<a asp-area="" asp-controller="Account" asp-action="Login">Admin</a>
+					</li>
+				-->
 				<li>
-					<partial name="_LoginPartial" />
-					<!-- about -->
+					<a asp-area="" asp-controller="Account" asp-action="Login">Login</a>
 				</li>
+				<li>
+					<a asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+				</li>
+
 				<!--<li>
 					<a href="about.html">About</a>
 				</li>
@@ -345,7 +353,7 @@
 
 							<div class="layer-slick1 animated visible-false" data-appear="zoomIn" data-delay="1600">
 								<a href="product.html" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
-									Shop Now
+									MUA NGAY
 								</a>
 							</div>
 						</div>
@@ -369,7 +377,7 @@
 
 							<div class="layer-slick1 animated visible-false" data-appear="slideInUp" data-delay="1600">
 								<a href="product.html" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
-									Shop Now
+									MUA NGAY
 								</a>
 							</div>
 						</div>
@@ -393,7 +401,7 @@
 
 							<div class="layer-slick1 animated visible-false" data-appear="rotateIn" data-delay="1600">
 								<a href="product.html" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
-									Shop Now
+									MUA NGAY
 								</a>
 							</div>
 						</div>

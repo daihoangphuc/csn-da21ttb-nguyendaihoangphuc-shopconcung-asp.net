@@ -64,7 +64,7 @@ namespace QuanLy_ShopConCung.Controllers
         {
             HttpContext.SignOutAsync(
             CookieAuthenticationDefaults.AuthenticationScheme);
-            return RedirectToAction("Login", "Account");
+            return RedirectToAction("Index", "Home");
         }
     }
 }

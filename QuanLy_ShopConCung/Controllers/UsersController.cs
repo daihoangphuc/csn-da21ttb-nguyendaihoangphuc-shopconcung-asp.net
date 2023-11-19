@@ -13,9 +13,10 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace QuanLy_ShopConCung.Controllers
 {
-   [Authorize(Roles = "Administrator")]
     public class UsersController : Controller
     {
+
+        //   [Authorize(Roles = "Administrator")]
 
         private readonly ApplicationDbContext _context;
 
