@@ -3129,12 +3129,12 @@
       "PackagePath": "staticwebassets\\images\\icons\\icon-prev.png"
     },
     {
-      "Id": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\icons\\logo-01.png",
-      "PackagePath": "staticwebassets\\images\\icons\\logo-01.png"
-    },
-    {
       "Id": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\icons\\logo-02.png",
       "PackagePath": "staticwebassets\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\icons\\logo-a01.png",
+      "PackagePath": "staticwebassets\\images\\icons\\logo-a01.png"
     },
     {
       "Id": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\icons\\pin.png",
@@ -3159,6 +3159,10 @@
     {
       "Id": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\item-cart-05.jpg",
       "PackagePath": "staticwebassets\\images\\item-cart-05.jpg"
+    },
+    {
+      "Id": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\logo-01.png",
+      "PackagePath": "staticwebassets\\images\\logo-01.png"
     },
     {
       "Id": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\product-01.jpg",

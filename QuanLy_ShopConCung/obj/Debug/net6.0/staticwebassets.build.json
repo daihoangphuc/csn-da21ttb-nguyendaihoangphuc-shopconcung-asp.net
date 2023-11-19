@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GpfX1lrHzIxdfYHDOUQYfEVKsZVQ2edIJluHewz3XZs=",
+  "Hash": "iCb7J2y2JFfn4rtOp9PIqVYupkb3R8kxr8yIzqqNKAo=",
   "Source": "QuanLy_ShopConCung",
   "BasePath": "_content/QuanLy_ShopConCung",
   "Mode": "Default",
@@ -14348,23 +14348,6 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\icon-prev.png"
     },
     {
-      "Identity": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\icons\\logo-01.png",
-      "SourceId": "QuanLy_ShopConCung",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\",
-      "BasePath": "_content/QuanLy_ShopConCung",
-      "RelativePath": "images/icons/logo-01.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\logo-01.png"
-    },
-    {
       "Identity": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\icons\\logo-02.png",
       "SourceId": "QuanLy_ShopConCung",
       "SourceType": "Discovered",
@@ -14380,6 +14363,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\logo-02.png"
+    },
+    {
+      "Identity": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\icons\\logo-a01.png",
+      "SourceId": "QuanLy_ShopConCung",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\",
+      "BasePath": "_content/QuanLy_ShopConCung",
+      "RelativePath": "images/icons/logo-a01.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\logo-a01.png"
     },
     {
       "Identity": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\icons\\pin.png",
@@ -14482,6 +14482,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\item-cart-05.jpg"
+    },
+    {
+      "Identity": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\logo-01.png",
+      "SourceId": "QuanLy_ShopConCung",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\",
+      "BasePath": "_content/QuanLy_ShopConCung",
+      "RelativePath": "images/logo-01.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo-01.png"
     },
     {
       "Identity": "D:\\A_Do_An_KT_Mon\\QuanLy_ShopConCung\\QuanLy_ShopConCung\\wwwroot\\images\\product-01.jpg",

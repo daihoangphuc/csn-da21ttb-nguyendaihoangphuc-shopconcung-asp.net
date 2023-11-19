@@ -1,15 +1,29 @@
-﻿ 
+﻿@using System.Globalization;
+ 
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+@using System.Globalization;
 
-
-@if (User.Identity.IsAuthenticated)
+@if (User.Identity.IsAuthenticated && User.IsInRole("Administrator"))
 {
-    <h1>Chào Admin, bạn cũng có thể <a href="/Account/Logout">đăng xuất</a></h1>
+    <h1>
+        Chào Admin, hãy vào trang
+        <a asp-area="" asp-controller="Admin" asp-action="Index">quản lí người dùng</a>
+        của bạn!
+    </h1>
 }
 else
 {
-    <h1>Quay lại trang <a href="/Account/Login">đăng nhập</a></h1>
+    <h1>
+        Xin chào khách hàng @{
+            TextInfo textInfo = CultureInfo.CurrentCulture.TextInfo;
+
+            // Sử dụng ToTitleCase để viết hoa chữ cái đầu tiên
+            string result = textInfo.ToTitleCase(User.Identity.Name.Split('@')[0]);
+        } @result, giờ bạn đã có thể mua hàng <a href="/Products">tại đây</a>
+    </h1>
 }
+
+
